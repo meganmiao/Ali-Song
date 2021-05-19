@@ -1,0 +1,34 @@
+{
+	"origin": ["Today is going to be #day_type##day_exclamation# #emoji# #encouragement#\n#time1#: #plan1# \n#time2#: #plan2# \n#time3#: #plan3# \n#time4#: #plan4# \n#time5#: #plan5# "],
+		"day_type": ["a good day", "a productive day", "a day for growth", "a wonderful day", "the best day ever", "a fantastic day", "THE BEST DAY", "SOo GOOD", "so LIT", "a day to remember", "the best day of the year", "just awesome"],
+		"day_exclamation": ["!", "!!", "!!!", ""],
+		"emoji": [":)", ";)", "\\\\o/", "❤", "✔", "🆗", "💯", "💅", "🔥", "🔥🔥", "Let's do it!", "💯💯💯"],
+		"encouragement": ["Let's go get it!!", "u can do it", "go get it!", "yessir", "Yaas ure the boss!", "mm hmm yeaah", "", "", "", "", "", ""],
+
+	"time1": ["3#timeadd#am", "5#timeadd#am", "6#timeadd#am"],
+		"plan1": ["Scratch at door", "Shout at #object# #adverbs#", "Demand some attention",  "Demand attention from #object#", "Sing quietly", "Meows #adverbs#", "Do morning stretches", "#meditations.capitalize# in the balcony", "Swipe at door", "Try and wake people up"],
+	"time2": ["8#timeadd#am", "9#timeadd#am", "10#timeadd#am"],
+		"plan2": ["Contemplate the history of #object2#", "Read the #works# of #philosopher#", "Figure out what exactly #career# does", "Watch documentary on #object2#", "Learn productivity hacks", "Tidy the house", "Tidy my room", "Fingerpainting a hyperrealistic portrait of Alistair", "Follow along with intermediate level Zumba video", "Reaffirm self resilience", "Review my to-do list", "Review progress on life goals", "Contemplate postmodern takes on #philosopher#", "Review existing literature on #object2#", "Do my ancestry test #21andme", "Write a grocery list", "Clean the bathroom #adverbs#"],
+	"time3": ["12#timeadd#pm", "1#timeadd#pm", "3#timeadd#pm"],
+		"plan3": ["Shed some fur from anxiety", "Have a minor existential crisis", "Have an existential crisis", "#meditations.capitalize#", "Harrass #plants#", "Figure out what rhymes with \"#rhymeless_words#\"", "Reconsider my life goals", "Shed some fur on the couch", "Worry about retirement", "Run some laps around the house", "Admire self in mirror for #duration#", "Resist urge to scratch the nice sofa", "Scratch the good sofa", "Attack #plants# for no reason"],
+	"time4": ["5#timeadd#pm", "6#timeadd#pm", "7#timeadd#pm"],
+		"plan4": ["Muster up courage to face life head on", "Perform physical exercises for #duration#", "Learn how to become #career#", "Getting absolutely #states_of_drunknenness# on treats", "Stuff my face", "Demand food #adverbs#", "Beg for food", "Cry at the door #adverbs#", "Pretend to ignore my parents", "Go for a walk in nature", "Appreciate the passage of time", "#adverbs.capitalize# lay down somewhere visible", "Read my horoscope", "Look for volunteering opportunities"],
+	"time5": ["9#timeadd#pm", "11#timeadd#pm", "12#timeadd#am"],
+		"plan5": ["Contribute meaningfully to the household", "Look longingly at #object#", "Find the planet #minor_planets# in the night sky", "Have an early night in", "Come to terms with the fact that I will never be #career# :(", "Stare at #object#", "Dream of #object2#", "Watch Alistair play dota", "Tiptoe around the house", "Snore softly"],
+
+		"adverbs": ["absentmindedly", "casually", "dreamily", "faithfully", "gently", "gracefully", "hastily", "mechanically", "lazily", "nervously", "noisily", "seriously", "tenderly", "upliftingly", "urgently"], 
+		"career": ["an accountant", "an aerobics instructor", "an agricultural inspector", "a bookkeeper", "a biophysicist", "a financial manager", "an administrative assistant", "a computer support specialist", "a cosmetologist", "a criminal investigator", "a human resources manager", "a credit analyst", "an industrial designer", "a maxillofacial surgeon", "a radiology technologist", "a terrazzo worker", "a hydrologist", "an insurance agent"],
+		"duration": ["2 mins", "5 mins", "a couple of seconds", "30 mins", "1 hour"],
+		"meditations": ["mindful breathing", "journalling", "waking meditations", "movement in space", "mindfulness", "mindful journalling", "mindful chanting", "practice yoga", "slow stretches", "self affirmation exercises", "do hatha yoga", "do tarot card reading"],
+		"minor_planets": ["Ceres", "Pallas", "Juno", "Vesta", "Astraea", "Hebe", "Iris", "Flora", "Metis", "Hygiea"],
+		"object": ["food bowl", "food", "the closed door", "the outside world", "snacks drawer", "Alistair", "nothing in particular", "the ceiling", "a random lizard", "the abyss"],
+		"object2": ["doorknobs", "ukeleles", "baseball", "blowdryers", "bottlecaps", "bowties", "the internet", "cowboys", "the Norris clan", "doors", "pickling", "keyboards", "lampshades"],
+		"philosopher": ["René Descartes", "Immanuel Kant", "Ralph Waldo Emerson", "Aristotle", "Michel Foucault", "Confucius", "Laozi"],
+		"plants": ["ferns", "the calathea", "the microgreens", "the big monstera in the corner", "the dying snake plant", "the seedlings", "the hanging plant", "harmless ants", "the new plant"],
+		"rhymeless_words": ["anxious", "beige", "bulb", "cairn", "circle", "depth", "gulf", "ninth", "sanction", "spoilt", "whilst", "warmth", "zigzag"],
+		"states_of_drunknenness": ["hammered", "intoxicated", "impaired", "wrecked", "sloshed", "buzzed", "canned", "baked", "smashed", "totaled", "annihilated", "blitzed", "horribly intoxicated"],
+		"timeadd": ["", "", "", "", ".01", ".11", ".13", ".16", ".20", ".34", ".38", ".45", ".53", ".55", ".57"],
+		"works": ["magnum opus", "works", "teachings", "writings", "musings"]
+}
+
+
